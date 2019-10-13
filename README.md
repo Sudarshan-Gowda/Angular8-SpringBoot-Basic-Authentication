@@ -1,4 +1,4 @@
-# Angular8-SpringBoot-Basic-Authentication
+# Angular8 SpringBoot Basic Authentication
 
 ## Running Spring Boot Application locally
 
