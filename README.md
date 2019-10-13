@@ -23,18 +23,7 @@ The following items should be installed in your system:
 * Install Node JS (https://nodejs.org)
 * Install Angular CLI (npm install -g @angular/cli)
 
-### Steps to Clone Spring Boot Application:
-
-1) Download this Project and do maven import.
-```
-https://github.com/Sudarshan-Gowda/Angular8-SpringBoot-Basic-Authentication.git
-```
-2) To Import the Praject Using Spring Tool Suite or Eclipse
-```
-File -> Import -> Maven -> Existing Maven project
-```
-
-### Steps to Clone Angular Application:
+### Steps to Clone The Repository:
 
 1) Download this Project from Git.
 ```
