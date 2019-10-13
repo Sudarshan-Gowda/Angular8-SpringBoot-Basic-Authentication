@@ -27,7 +27,7 @@ The following items should be installed in your system:
 
 1) Download this Project and do maven import.
 ```
-git clone https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices
+https://github.com/Sudarshan-Gowda/Angular8-SpringBoot-Basic-Authentication.git
 ```
 2) To Import the Praject Using Spring Tool Suite or Eclipse
 ```
